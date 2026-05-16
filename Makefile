@@ -1,0 +1,2 @@
+lab:
+	jupyter notebook

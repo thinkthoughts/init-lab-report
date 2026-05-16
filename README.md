@@ -1,2 +1,1 @@
-# init-lab-report
-minimal science framework (MSF)
+# init-lab-report-tool
