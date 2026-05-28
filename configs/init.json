@@ -1,4 +1,10 @@
 {
+  "project": "init-lab-report",
+  "framework": "RML + CGCS",
   "language": "English",
-  "framework": "RML + CGCS"
+  "translation_realism": {
+    "persist_not_survive": true,
+    "local_not_neutral": true
+  },
+  "mod30_lanes": [1,7,11,13,17,19,23,29]
 }
