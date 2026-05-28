@@ -1,1 +1,1 @@
-ZABCD = {}
+# zabcd.py

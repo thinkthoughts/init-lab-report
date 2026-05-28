@@ -1,1 +1,1 @@
-"""General scaffold"""
+# __init__.py

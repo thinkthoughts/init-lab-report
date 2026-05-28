@@ -1,2 +1,1 @@
-def persistence_score(signal, noise):
-    return signal
+# persistence.py

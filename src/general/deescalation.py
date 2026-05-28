@@ -1,2 +1,1 @@
-def reduce_noise(x):
-    return x
+# deescalation.py

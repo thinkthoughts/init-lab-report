@@ -1,2 +1,2 @@
-lab:
-	jupyter notebook
+setup:
+	pip install -r requirements.txt
